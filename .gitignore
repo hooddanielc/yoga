@@ -65,3 +65,5 @@ Carthage/Build
 .gradle
 # NDK/CMake
 .externalNativeBuild
+# ib
+ib_tests
